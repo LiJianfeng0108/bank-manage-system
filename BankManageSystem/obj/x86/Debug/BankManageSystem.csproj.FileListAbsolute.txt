@@ -1,0 +1,157 @@
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BaseForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BasePanelForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.MainForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.LoginForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.DepositForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.MoneyManageForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.NewAccountForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.ShowCustomForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.WithdrawForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.pdb
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.exe
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.pdb
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.exe
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.pdb
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BaseForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BasePanelForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.MainForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.BasicInfoForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.EmployeeManageForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.PayForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.LoginForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.DepositForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.MoneyManageForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.ShowCustomForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.NewAccountForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.WithdrawForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.ChangeCustomPassword.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.ChangeOperatorPassword.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.OtherManageForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.Properties.Resources.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.QueryManageForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.SumForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.WithdrawQueryForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FDBIForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FixedForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FlexibleForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.RateManageForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.exe
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.pdb
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BaseForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BasePanelForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.MainForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.BasicInfoForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.EmployeeManageForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.PayForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.LoginForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.DepositForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.MoneyManageForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.ShowCustomForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.NewAccountForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.WithdrawForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.ChangeCustomPassword.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.ChangeOperatorPassword.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.OtherManageForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.Properties.Resources.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.QueryManageForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.SumForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.WithdrawQueryForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FDBIForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FixedForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FlexibleForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.RateManageForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\bin\Debug\Bank.mdf
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\bin\Debug\Bank_log.ldf
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.exe.config
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.exe
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.pdb
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.help.AboutForm.resources
+E:\U盘备份\大三上半学期\C          #\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.DepositQueryForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.exe.config
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.exe
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.pdb
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\bin\Debug\Bank.mdf
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\bin\Debug\Bank_log.ldf
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.exe
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.pdb
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BaseForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BasePanelForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.MainForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.BasicInfoForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.EmployeeManageForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.PayForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.help.AboutForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.LoginForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.DepositForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.MoneyManageForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.ShowCustomForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.NewAccountForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.WithdrawForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.ChangeCustomPassword.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.OtherManageForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.QueryManageForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.SumForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FDBIForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FixedForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FlexibleForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.RateManageForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.exe.config
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\bin\Debug\Bank.mdf
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\bin\Debug\Bank_log.ldf
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.help.AboutForm.resources
+C:\Users\HP\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.DepositQueryForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.DespoitQueryForm.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.FindCustomPasssWord.resources
+C:\Users\Administrator\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.ChangeOperatorPassword.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.exe.config
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.exe
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.pdb
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\bin\Debug\Bank.mdf
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\bin\Debug\Bank_log.ldf
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.exe
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\bin\Debug\BankManageSystem.pdb
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BaseForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.BasePanelForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.common.MainForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.BasicInfoForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.ChangeOperatorPassword.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.EmployeeManageForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.employee.PayForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.help.AboutForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.LoginForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.DepositForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.MoneyManageForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.ShowCustomForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.NewAccountForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.money.WithdrawForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.ChangeCustomPassword.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.FindCustomPasssWord.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.other.OtherManageForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.Properties.Resources.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.DespoitQueryForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.QueryManageForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.query.SumForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FDBIForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FixedForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.FlexibleForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\BankManageSystem.rate.RateManageForm.resources
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fengzi\Desktop\BankManageSystem\BankManageSystem\obj\x86\Debug\GenerateResource.write.1.tlog
